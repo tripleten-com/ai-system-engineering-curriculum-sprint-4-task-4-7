@@ -1,0 +1,13 @@
+# Coldline - Task 4.7
+# File: submission-template.yaml
+# Component: Public verifier fixture
+# Purpose: Exercise the shipped answer sheet inside the public test suite.
+# Interacts With: tests/contract/test_submission.py
+# Sprint/Task: Sprint 4 - Project 4 / Task 4.7
+# Concepts: Deterministic assessment, evidence as the record
+# Tools: YAML
+
+# Task 4.7 — Project Defense
+# Source: docs/student/task-4-7-contract.md.
+# Keep this mapping empty; this Task has no direct-answer fields to complete.
+answers: {}

@@ -1,0 +1,27 @@
+# Coldline - Task 4.7
+# File: submission.yaml
+# Component: Student answer sheet
+# Purpose: Record that this Task has no direct answer to record.
+# Interacts With: Submission schema and public verifier
+# Sprint/Task: Sprint 4 - Project 4 / Task 4.7
+# Concepts: Deterministic assessment, evidence as the record
+# Tools: YAML
+
+# Keep answers: {} in submission.yaml; the sample shows the same empty mapping.
+# Complete the work described in the Task contract.
+# Do not include secrets, personal data, or local absolute paths.
+
+# Task 4.7 — Project Defense
+# Step 1: Assemble the evidence and structure the defense
+# Put the evidence index from your six merged Task pull requests, and the three-part
+# structure above it with time slices summing to 10 minutes, in this Task's pull request
+# DESCRIPTION; open a pull request that touches only this file; run `poe verify`; then
+# deliver the live Project Defense to your instructor from the pull requests, the check
+# runs and your own records at their accepted commits on screen.
+# Source: docs/student/task-4-7-contract.md.
+# The pull request record from Tasks 1 through 6 and your live defense of it are the
+# evidence for this Task, not a recorded claim. Keep this mapping empty; this Task has no
+# direct-answer fields to complete. If your branch needs a change to commit, add one YAML
+# comment above `answers: {}` with the date you prepared the evidence index.
+# submission.yaml is the only file this Task permits you to change.
+answers: {}

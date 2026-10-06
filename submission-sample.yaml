@@ -1,0 +1,22 @@
+# Coldline - Task 4.7
+# File: submission-sample.yaml
+# Component: Fictional completed answer sheet
+# Purpose: Show the accepted shape.
+# Interacts With: docs/contracts/submission.schema.json
+# Sprint/Task: Sprint 4 - Project 4 / Task 4.7
+# Concepts: Answer-sheet shape
+# Tools: YAML
+
+# Keep answers: {} in submission.yaml; the sample shows the same empty mapping.
+# Complete the work described in the Task contract.
+# Do not include secrets, personal data, or local absolute paths.
+
+# Task 4.7 — Project Defense
+# Assemble the evidence index into this Task's pull request description, open a pull
+# request that touches only submission.yaml, and deliver the live Project Defense.
+# Source: docs/student/task-4-7-contract.md.
+# The pull request record from Tasks 1 through 6 and your live defense of it are the
+# evidence for this Task, not a recorded claim. Keep this mapping empty; this Task has no
+# direct-answer fields to complete. A dated comment above the mapping is allowed:
+# Evidence index prepared 2026-01-15 (a fictional date).
+answers: {}

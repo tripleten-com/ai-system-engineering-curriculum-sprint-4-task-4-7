@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$comment": "Coldline Task 4.7 public answer contract. This Task has no useful direct answer: the evidence is the six merged pull requests from Tasks 1 through 6, the evidence index and three-part structure assembled into this Task's own pull request description, and the live Project Defense delivered to the instructor. The automated checks read the answer sheet and the pull request's diff against the settled checkpoint rather than a recorded claim; the index, the structure and the defense are read by a human. The mapping is required and must be empty, so an invented status, a self-reported defense outcome, a pasted evidence summary or a re-recorded Task 6 answer is rejected rather than accepted as evidence. A YAML comment is not part of the mapping.",
+  "title": "Coldline Task 4.7 answers",
+  "description": "An intentionally empty answer mapping.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["answers"],
+  "properties": {
+    "answers": {
+      "description": "Empty by design. Add no field: the six merged pull requests, the assembled evidence index in this Task's pull request description, and the live defense are the evidence.",
+      "type": "object",
+      "additionalProperties": false,
+      "maxProperties": 0
+    }
+  }
+}
