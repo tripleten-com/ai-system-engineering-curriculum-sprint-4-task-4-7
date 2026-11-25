@@ -11,13 +11,12 @@ open a pull request that touches only `submission.yaml`, and then deliver a live
 Defense of at most 10 minutes to your instructor, from the pull requests, the check runs and
 your own records on screen.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/tripleten-com/ai-system-engineering-curriculum-sprint-4-task-4-7/tree/main)
-
 ## Start the system
 
 Prerequisites are Python 3.12 and Docker with Compose v2. The supplied bootstrap supports macOS
 arm64/x86-64, Windows x86-64, and Linux x86-64/aarch64, and installs pinned uv 0.11.8 under
-`.tools/bin`. If your computer cannot run the stack locally, use the Codespaces button above.
+`.tools/bin`. If your computer cannot run the stack locally, ask your instructor about GitHub
+Codespaces.
 
 On macOS and most Linux distributions the interpreter is `python3`; substitute it wherever these
 commands say `python`.
